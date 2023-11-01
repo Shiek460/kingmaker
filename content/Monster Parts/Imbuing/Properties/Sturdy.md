@@ -1,0 +1,1 @@
+![[Trait Sturdy.png]]

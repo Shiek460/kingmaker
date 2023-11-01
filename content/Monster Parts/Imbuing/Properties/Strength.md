@@ -1,0 +1,1 @@
+![[Trait Strength.png]]
