@@ -1,0 +1,1 @@
+![[Trait Energy Resistent.png]]

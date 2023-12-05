@@ -1,0 +1,1 @@
+![[Trait Intelligence.png]]
