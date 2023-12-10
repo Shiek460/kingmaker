@@ -9,7 +9,8 @@
 
 - [[Chartering the Stolen Lands]]
 # Rules and Systems
-## [[House Rules]]
+
+-  [[House Rules]]
 ## Monster Parts
 
 ### Refinement - Increasing Item Level
