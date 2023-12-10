@@ -1,14 +1,17 @@
-Title: Welcome to Our New Kingmaker/TTRPG Reference Site!
+# Welcome to Our New Kingmaker/TTRPG Reference Site!
 # The Story So Far
+
 [[Recap]]
 # Adventure
-## [[NPC's]]
+
+ [[NPC's]]
 ## Quests
+
 - [[Chartering the Stolen Lands]]
-- 
 # Rules and Systems
 ## [[House Rules]]
 ## Monster Parts
+
 ### Refinement - Increasing Item Level
 - For rules on leveling Weapons, Armor, Shields, or Perception/Skill Items, click [[Monster Parts System#Refining Materials|Here]]
 ### Imbuing - Where the Magic Happens
