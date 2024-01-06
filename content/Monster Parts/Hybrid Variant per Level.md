@@ -1,0 +1,1 @@
+![[Hybrid Variant per Level.png]]

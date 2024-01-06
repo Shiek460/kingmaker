@@ -1,0 +1,1 @@
+![[Trait Wisdom.png]]

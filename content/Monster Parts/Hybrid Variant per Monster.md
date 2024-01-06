@@ -1,0 +1,1 @@
+![[Hybrid Variant per Monster.png]]

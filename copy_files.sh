@@ -4,13 +4,9 @@
 windows_source_path="/mnt/c/Obsidian/Obsidian/Quartz"
 
 # WSL destination folder path
-wsl_destination_path="/mnt/wsl.localhost/Debian/home/llickfield/quartz/content"
-
-# Change to the Windows source directory
-cd "$windows_source_path" || exit
+wsl_destination_path="/home/llickfield/quartz/content"
 
 # Copy files from Windows to WSL
-cp -r . "$wsl_destination_path"
+cp -r "$windows_source_path"/* "$wsl_destination_path"
 
-cd ..
 npx quartz sync
