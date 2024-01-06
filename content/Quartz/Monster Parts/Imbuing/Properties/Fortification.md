@@ -1,1 +1,0 @@
-![[Trait Fortification.png]]

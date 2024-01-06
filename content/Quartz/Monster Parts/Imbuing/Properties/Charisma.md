@@ -1,1 +1,0 @@
-![[Trait Charisma.png]]
