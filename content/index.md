@@ -4,16 +4,19 @@
 [[Recap]]
 # Adventure
 
- [[NPC's]]
- # World
- 
- [[Gods]]
-## Quests
+## [[NPC's]]
+![[NPC's]]
+## World
 
-- [[Chartering the Stolen Lands]]
+### [[Gods]]
+
+## Quests
+![[Quests]]
+
 # Rules and Systems
 
 -  [[House Rules]]
+- 
 ## Monster Parts
 
 ### Refinement - Increasing Item Level
