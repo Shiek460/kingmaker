@@ -1,17 +1,26 @@
-# Welcome to Our New Kingmaker/TTRPG Reference Site!
+<title>Homepage</title>
 # The Story So Far
 
-[[Recap]]
+## [[Recap]]
+<iframe src="https://shiek460.github.io/kingmaker/Recap" width="700" height="250" frameborder="0"></iframe>
+
 # Adventure
 
 ## [[NPC's]]
-<iframe src="https://shiek460.github.io/kingmaker/NPC's" width="800" height="600" frameborder="0"></iframe>
+<iframe src="https://shiek460.github.io/kingmaker/NPC's" width="800" height="250" frameborder="0"></iframe>
 ## World
 
 ### [[Gods]]
 
 ## Quests
-<iframe src="https://shiek460.github.io/kingmaker/Discovered-Rumors" width="800" height="600" frameborder="0"></iframe>
+
+### [[Active-Quests|Active Quests]]
+<iframe src="https://shiek460.github.io/kingmaker/Active-Quests" width="800" height="250" frameborder="0"></iframe>
+
+### [[Discovered-Rumors|Discovered Rumors]]
+<iframe src="https://shiek460.github.io/kingmaker/Discovered-Rumors" width="800" height="250" frameborder="0"></iframe>
+### [[Completed-Quests|Completed Quests]]
+<iframe src="https://shiek460.github.io/kingmaker/Completed-Quests" width="800" height="250" frameborder="0"></iframe>
 
 # Rules and Systems
 
