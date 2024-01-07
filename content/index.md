@@ -5,13 +5,13 @@
 # Adventure
 
 ## [[NPC's]]
-![[NPC's]]
+<iframe src="https://shiek460.github.io/kingmaker/NPC's" width="800" height="600" frameborder="0"></iframe>
 ## World
 
 ### [[Gods]]
 
 ## Quests
-![[Quests]]
+<iframe src="https://shiek460.github.io/kingmaker/Discovered-Rumors" width="800" height="600" frameborder="0"></iframe>
 
 # Rules and Systems
 
