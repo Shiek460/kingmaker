@@ -5,4 +5,4 @@
 - [[Quest The Stag Lord]]
 - [[Trouble at Oleg's]]
 ## [[Completed-Quests|Completed]]
-<iframe src="https://shiek460.github.io/kingmaker/Completed-Quests" width="800" height="600" frameborder="0"></iframe>
+<iframe src="https://shiek460.github.io/kingmaker/Completed-Quests" width="700" height="600" frameborder="0"></iframe>
