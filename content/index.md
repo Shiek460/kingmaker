@@ -1,4 +1,5 @@
 <title>Homepage</title>
+
 # The Story So Far
 
 ## [[Recap]]
@@ -7,7 +8,7 @@
 # Adventure
 
 ## [[NPC's]]
-<iframe src="https://shiek460.github.io/kingmaker/NPC's" width="800" height="250" frameborder="0"></iframe>
+<iframe src="https://shiek460.github.io/kingmaker/NPC's" width="700" height="250" frameborder="0"></iframe>
 ## World
 
 ### [[Gods]]
@@ -15,12 +16,12 @@
 ## Quests
 
 ### [[Active-Quests|Active Quests]]
-<iframe src="https://shiek460.github.io/kingmaker/Active-Quests" width="800" height="250" frameborder="0"></iframe>
+<iframe src="https://shiek460.github.io/kingmaker/Active-Quests" width="700" height="250" frameborder="0"></iframe>
 
 ### [[Discovered-Rumors|Discovered Rumors]]
-<iframe src="https://shiek460.github.io/kingmaker/Discovered-Rumors" width="800" height="250" frameborder="0"></iframe>
+<iframe src="https://shiek460.github.io/kingmaker/Discovered-Rumors" width="700" height="250" frameborder="0"></iframe>
 ### [[Completed-Quests|Completed Quests]]
-<iframe src="https://shiek460.github.io/kingmaker/Completed-Quests" width="800" height="250" frameborder="0"></iframe>
+<iframe src="https://shiek460.github.io/kingmaker/Completed-Quests" width="700" height="250" frameborder="0"></iframe>
 
 # Rules and Systems
 

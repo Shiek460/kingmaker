@@ -1,4 +1,4 @@
-- Resentment - Nera
+- Resentment/Spite - Nera
 	- Violence (Monstrous, violent war) - Astruva
 	- Trickery/Thievery - Veltur (vel-TOUR)
 - Discipline
